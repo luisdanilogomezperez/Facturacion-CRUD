@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    background-color: #ffffff;
+}
+
+.table{
+    width: 600px;
+}
+
+.txt_center{
+    text-align: center;
+    align-content: center;
+}
+
+.menu li{
+    padding-top: 5px;
+    list-style: none;
+}
